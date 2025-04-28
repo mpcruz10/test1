@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    font-family: The Seasons;
+    background-color: #D3EFD2;
+}
+.container-fluid .container .container {
+    background-color: #006FC8;
+}
+.container-fluid .container .row {
+    background-color: #E99D9F;
+}
